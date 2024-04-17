@@ -1,4 +1,4 @@
-name: GraphQL Inspector
+name: GraphQL Inspection
 
 on: [push]
 
