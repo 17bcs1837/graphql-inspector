@@ -11,6 +11,6 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
 
-      - uses: kamilkisiela/graphql-inspector@master
+      - uses: kamilkisiela/graphql-inspector@release-1701263349990
         with:
           schema: "main:schema.graphql"
