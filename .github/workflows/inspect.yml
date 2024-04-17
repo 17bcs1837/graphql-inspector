@@ -17,4 +17,4 @@ jobs:
       - uses: kamilkisiela/graphql-inspector@release-1701263349990
         with:
           schema: "main:schema.graphql"
-          approve-label: expected-breaking-change
+          approve-label: approved-breaking-change
